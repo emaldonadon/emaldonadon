@@ -8,8 +8,6 @@
 title="HTML" alt="HTML" width="40" heigth="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" 
 title="CSS" alt="CSS" width="40" heigth="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
-title="JavaScript" alt="JavaScript" width="40" heigth="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
-title="React" alt="React" width="40" heigth="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" 
+title="Flutter" alt="Flutter" width="40" heigth="40"/>&nbsp;
 </div>
