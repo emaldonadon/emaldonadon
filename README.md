@@ -10,4 +10,6 @@ title="HTML" alt="HTML" width="40" heigth="40"/>&nbsp;
 title="CSS" alt="CSS" width="40" heigth="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" 
 title="Flutter" alt="Flutter" width="40" heigth="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
+title="react" alt="react" width="40" heigth="40"/>&nbsp;
 </div>
