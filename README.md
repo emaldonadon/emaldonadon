@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Eduardo!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<p>Soy <b>Eduardo</b> un joven recién graduado y apasionado por el desarrollo web, con sólidos conocimientos en una variedad de tecnologías. Me encanta la programación y estoy constantemente buscando formas de mejorar mis habilidades y aprender nuevas tecnologías.</p>
+<!-- <p>Soy <b>Eduardo</b> un joven recién graduado y apasionado por el desarrollo web, con sólidos conocimientos en una variedad de tecnologías. Me encanta la programación y estoy constantemente buscando formas de mejorar mis habilidades y aprender nuevas tecnologías.</p> -->
 <p align="center">
 <img src="https://media.giphy.com/media/zkMri4yiJ3Mdy/giphy.gif?cid=790b7611qub0ukecwrzqh5zb1vkl64k84wm40nwsptcdabk5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="pikachu" width="20%">
 </p>
