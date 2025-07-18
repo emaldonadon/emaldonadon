@@ -15,6 +15,6 @@ console.log("Hola Mundo");
 <p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,php,react,vite,redux,flutter,java,mui,bootstrap,git,npm,pnpm,postman" />
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,javascript,typescript,express,firebase,postgresql,mysql,sequelize,vercel,tailwindcss" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,javascript,typescript,express,firebase,postgresql,mysql,docker,sequelize,vercel,tailwindcss" /><br>
 </div>
   
