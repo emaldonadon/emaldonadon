@@ -2,7 +2,7 @@
 Hi, I'm Eduardo!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
-<img src="https://media.giphy.com/media/zkMri4yiJ3Mdy/giphy.gif?cid=790b7611qub0ukecwrzqh5zb1vkl64k84wm40nwsptcdabk5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="pikachu" width="20%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdlcnhudXJlMjA1ZjcyN3dhbG1rcmJkbHhtOHpwcnM4cWoxN2x0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2jY21l2GvZUdQVG/giphy.gif" alt="Guardiana del fuego" width="20%">
 </p>
 
 ```js
